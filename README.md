@@ -16,3 +16,5 @@
 ## Recommended
 * Update the web.config to target the correct database connection string.
 * Visual Studio to modify files
+
+### This CAD was originally designed for SOSA RP. You can visit SOSA RP here: https://sosarp.net/
