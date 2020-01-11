@@ -1,0 +1,211 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CivCAD.master.cs" Inherits="SoSACAD.CivCAD1" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+        <meta name="description" content="State Of San Andreas Roleplay Community computer aided dispatch & mobile data terminal. You can join our discord at: discord.sosarp.net">
+    <meta property="og:title" content="State of San Andreas CAD">
+    <meta property="og:image" content="https://sosarp.net/img/SOSA.png">
+    <meta property="og:description" content="State Of San Andreas Roleplay Community computer aided dispatch & mobile data terminal. You can join our discord at: discord.sosarp.net">
+    <title><%: Page.Title %> - Computer-aided Dispatch</title>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+<link rel="icon" type="image/png" sizes="96x96" href="assets/images/favicon-96x96.png">
+
+    <link href="assets/plugins/bootstrap/css/bootstrap.css?v=1.5" rel="stylesheet" />
+    <!-- Sweetalert Css -->
+    <link href="assets/plugins/sweetalert/sweetalert.css?v=1.5" rel="stylesheet" />
+    <!-- Custom Css -->
+    <link href="assets/css/main.css?v=1.5" rel="stylesheet">
+    <!-- Swift Themes. You can choose a theme from css/themes instead of get all themes -->
+    <link href="assets/css/themes/all-themes.css?v=1.5" rel="stylesheet" />
+    <link href="assets/css/jquery-ui.css?v=1.5" rel="stylesheet" />
+    <link href="assets/css/chat911.css?v=1.5" rel="stylesheet">
+
+</head>
+
+<div id="loadingDiv" style="background-color: #333;" class="page-loader-wrapper">
+    <div class="loader">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+    </div>
+</div>
+
+<body class="theme-blue">
+    <form id="civForm" runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                  <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <!-- Overlay For Sidebars -->
+        <div class="overlay"></div>
+
+        <!-- Top Bar -->
+        <nav class="navbar clearHeader">
+            <div class="col-12">
+                <div class="navbar-header"><a href="javascript:void(0);" class="bars"></a><a class="navbar-brand" href="index.html">SOSA Civilian CAD | Computer-aided Dispatch Sytem</a> </div>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><asp:LinkButton runat="server" OnClick="LogOut"><i class="zmdi zmdi-power"></i></asp:LinkButton></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- #Top Bar -->
+
+        <!--Side menu and right menu -->
+        <!-- Left Sidebar -->
+        <aside id="leftsidebar" class="sidebar">
+            <!-- Menu -->
+            <div class="menu">
+                <ul class="list">
+                    <li>
+                        <!-- User Info -->
+                        <div class="user-info">
+                            <div class="admin-image">
+                                <img src="assets/images/Sosa.png" alt="profile img">
+                            </div>
+                            <div class="admin-action-info">
+                                <span>Civilian:</span>
+                                <h3 id="loggedUser"></h3>
+                            </div>
+                        </div>
+                        <!-- #User Info -->
+                    </li>
+                    <li class="header">SOSA DMV STATS</li>
+                    <li class="open active">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="card info-box-3 bg-grey hover-expand-effect">
+                                <div class="icon"><i class="material-icons">directions_car</i> </div>
+                                <div class="content">
+                                    <div class="text">REGISTERED VEHICLES</div>
+                                    <div id="registeredVehs" class="number"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="open active">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="card info-box-3 bg-grey hover-expand-effect">
+                                <div class="icon"><i class="material-icons">receipt</i> </div>
+                                <div class="content">
+                                    <div class="text">TICKETS</div>
+                                    <div id="ticketsReceived" class="number"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="open active">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="card info-box-3 bg-grey hover-expand-effect">
+                                <div class="icon"><i class="material-icons">message</i> </div>
+                                <div class="content">
+                                    <div class="text">WARNINGS</div>
+                                    <div id="timesWarned" class="number"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="open active">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="card info-box-3 bg-grey hover-expand-effect">
+                                <div class="icon"><i class="material-icons">person</i> </div>
+                                <div class="content">
+                                    <div class="text">CIVILIANS</div>
+                                    <div id="totalCharacters" class="number"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a>Discord</a></li>
+                    <li><a>Forums</a></li>
+                    <li><a href="https://forum.sosarp.net/category/61/report-a-bug" target="_blank">Report a Bug</a></li>
+                </ul>
+                <span class="text-white text-sm-left" style="position: absolute; bottom: 0; left: 0;">Beta Version 1.1.80<br />API Version 0.1.28<br />
+                    Developed by Eri S.</span>
+            </div>
+            <!-- #Menu -->
+        </aside>
+        <!-- #END# Left Sidebar -->
+    </form>
+
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+
+    <!-- Jquery Core Js -->
+    <script src="https://code.jquery.com/jquery-3.3.1.js?v=1.5"></script>
+    <!-- Lib Scripts Plugin Js ( jquery.v2.1.4.js?v=1.5 ) -->
+    <script src="assets/bundles/vendorscripts.bundle.js?v=1.5"></script>
+    <!-- slimscroll, waves Scripts Plugin Js -->
+    <script src="assets/bundles/mainscripts.bundle.js?v=1.5"></script>
+    <!-- Resource jQuery -->
+    <script src="assets/js/pages/forms/form-wizard.js?v=1.5"></script>
+    <script src="assets/plugins/jquery-validation/jquery.validate.js?v=1.5"></script>
+    <!-- Jquery Validation Plugin Css -->
+    <script src="assets/plugins/jquery-steps/jquery.steps.js?v=1.5"></script>
+    <!-- JQuery Steps Plugin Js -->
+    <!-- Jquery DataTable Plugin Js -->
+    <script src="assets/bundles/datatablescripts.bundle.js?v=1.5"></script>
+    <script src="assets/plugins/jquery-datatable/buttons/dataTables.buttons.min.js?v=1.5"></script>
+    <script src="assets/plugins/jquery-datatable/buttons/buttons.bootstrap4.min.js?v=1.5"></script>
+    <script src="assets/plugins/jquery-datatable/buttons/buttons.colVis.min.js?v=1.5"></script>
+    <script src="assets/plugins/jquery-datatable/buttons/buttons.flash.min.js?v=1.5"></script>
+    <script src="assets/plugins/jquery-datatable/buttons/buttons.html5.min.js?v=1.5"></script>
+    <script src="assets/plugins/jquery-datatable/buttons/buttons.print.min.js?v=1.5"></script>
+    <script src="assets/bundles/mainscripts.bundle.js?v=1.5"></script>
+    <!-- Custom Js -->
+    <script src="assets/js/pages/tables/jquery-datatable.js?v=1.5"></script>
+    <script src="assets/plugins/bootstrap-notify/bootstrap-notify.js?v=1.5"></script>
+    <!-- Bootstrap Notify Plugin Js -->
+    <script src="assets/js/pages/ui/notifications.js?v=1.5"></script>
+    <script src="assets/js/pages/forms/basic-form-elements.js?v=1.5"></script>
+    <script src="assets/plugins/momentjs/moment.js?v=1.5"></script>
+    <!-- Moment Plugin Js -->
+    <script src="assets/plugins/autosize/autosize.js?v=1.5"></script>
+    <!-- Autosize Plugin Js -->
+    <!-- Bootstrap Material Datetime Picker Plugin Js -->
+    <script src="assets/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js?v=1.5"></script>
+    <script src="assets/plugins/autosize/autosize.js?v=1.5"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js?v=1.5"></script>
+    <!-- Autosize Plugin Js -->
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js?v=1.5"></script>
+    <script src="assets/plugins/sweetalert/sweetalert.min.js?v=1.5"></script>
+    <!-- SweetAlert Plugin Js -->
+    <script src="assets/js/pages/ui/dialogs.js?v=1.5"></script>
+    <script src="assets/js/cadCivAjax.js?v=1.5"></script>
+    <!-- Global site tag (gtag.js?v=1.5) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114836240-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114836240-1');
+</script>
+
+</body>
+</html>

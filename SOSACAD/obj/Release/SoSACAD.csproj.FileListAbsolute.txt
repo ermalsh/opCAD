@@ -1,0 +1,450 @@
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\ApplicationInsights.config
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\SoSACAD.dll.config
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\SoSACAD.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\SoSACAD.pdb
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Antlr3.Runtime.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\EntityFramework.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\EntityFramework.SqlServer.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.Web.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Newtonsoft.Json.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Owin.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\System.Web.Optimization.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\System.Web.Providers.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\WebGrease.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\System.Web.Optimization.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Antlr3.Runtime.pdb
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Newtonsoft.Json.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\EntityFramework.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\EntityFramework.SqlServer.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\System.Web.Providers.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\bin\Microsoft.AI.Web.xml
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\obj\Release\SoSACAD.csprojResolveAssemblyReference.cache
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\obj\Release\SoSACAD.csproj.CoreCompileInputs.cache
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\obj\Release\SoSACAD.dll
+C:\Users\eshku\source\repos\SoSACAD\SoSACAD\obj\Release\SoSACAD.pdb
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\ApplicationInsights.config
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\SoSACAD.dll.config
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\SoSACAD.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\SoSACAD.pdb
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Antlr3.Runtime.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\EntityFramework.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\EntityFramework.SqlServer.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.Web.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Newtonsoft.Json.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Owin.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\System.Web.Optimization.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\System.Web.Providers.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\WebGrease.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\System.Web.Optimization.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Antlr3.Runtime.pdb
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Newtonsoft.Json.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\EntityFramework.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\EntityFramework.SqlServer.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\System.Web.Providers.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\bin\Microsoft.AI.Web.xml
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\obj\Release\SOSACAD.csprojResolveAssemblyReference.cache
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\obj\Release\SoSACAD.dll
+C:\Users\shkuller.SIIGROUP\documents\visual studio 2017\Projects\SOSACAD\SOSACAD\obj\Release\SoSACAD.pdb
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\ApplicationInsights.config
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\SoSACAD.dll.config
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\SoSACAD.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\SoSACAD.pdb
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Antlr3.Runtime.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\EntityFramework.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\EntityFramework.SqlServer.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.Web.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Newtonsoft.Json.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Owin.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Optimization.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Providers.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\WebGrease.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Optimization.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Antlr3.Runtime.pdb
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Newtonsoft.Json.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\EntityFramework.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\EntityFramework.SqlServer.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Providers.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.Web.xml
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\obj\Release\SOSACAD.csprojResolveAssemblyReference.cache
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\obj\Release\SoSACAD.dll
+C:\Users\shkuller.SIIGROUP\Desktop\SOSACADPROJ\SOSACAD\obj\Release\SoSACAD.pdb
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\ApplicationInsights.config
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\SoSACAD.dll.config
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\SoSACAD.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\SoSACAD.pdb
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Antlr3.Runtime.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\EntityFramework.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\EntityFramework.SqlServer.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.Web.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Newtonsoft.Json.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Owin.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Optimization.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Providers.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\WebGrease.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Optimization.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Antlr3.Runtime.pdb
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Newtonsoft.Json.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\EntityFramework.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\EntityFramework.SqlServer.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Providers.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\Microsoft.AI.Web.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\obj\Release\SOSACAD.csproj.CoreCompileInputs.cache
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\obj\Release\SoSACAD.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\obj\Release\SoSACAD.pdb
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\csc.exe
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\csc.exe.config
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\csc.rsp
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\csi.exe
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\csi.exe.config
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\csi.rsp
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.AppContext.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Console.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.IO.Compression.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Security.Claims.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Threading.Thread.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.ValueTuple.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\vbc.exe
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\vbc.exe.config
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\vbc.rsp
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\VBCSCompiler.exe
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\obj\Release\SOSACAD.csprojResolveAssemblyReference.cache
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\AntiXSSLibrary.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\AntiXSSLibrary.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Net.Http.Formatting.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Http.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Http.WebHost.dll
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Net.Http.Formatting.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Http.xml
+C:\Users\eshku\Desktop\SOSACADPROJ\SOSACAD\bin\System.Web.Http.WebHost.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\ApplicationInsights.config
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\SoSACAD.dll.config
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\SoSACAD.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\SoSACAD.pdb
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\csc.exe
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\csc.exe.config
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\csc.rsp
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\csi.exe
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\csi.exe.config
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\csi.rsp
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.AppContext.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Console.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Security.Claims.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\vbc.exe
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\vbc.exe.config
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\vbc.rsp
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Antlr3.Runtime.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\EntityFramework.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\EntityFramework.SqlServer.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.Web.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Newtonsoft.Json.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Owin.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Net.Http.Formatting.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Web.Http.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Web.Http.WebHost.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Web.Optimization.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Web.Providers.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\WebGrease.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\AntiXSSLibrary.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Antlr3.Runtime.pdb
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\EntityFramework.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.Web.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Newtonsoft.Json.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Net.Http.Formatting.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Web.Http.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Web.Http.WebHost.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Web.Optimization.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\bin\System.Web.Providers.xml
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\obj\Release\SOSACAD.csprojAssemblyReference.cache
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\obj\Release\SOSACAD.csproj.CoreCompileInputs.cache
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\obj\Release\SOSACAD.csproj.CopyComplete
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\obj\Release\SoSACAD.dll
+C:\Users\Eri\Desktop\SOSACADPROJ-UpdateV3\SOSACAD\obj\Release\SoSACAD.pdb
